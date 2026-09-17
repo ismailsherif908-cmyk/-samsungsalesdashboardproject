@@ -75,14 +75,15 @@ Built in Excel (`samsung_dashboard.xlsx`, **Dashboard** sheet):
   Revenue (bar), 5G vs Non-5G Units (pie)
 - **Model summary table** — updates with the active filters
 
-![Filters, KPIs, revenue trend, units by region](screenshots/screenshot_1_overview_charts.png)
+![Filters, KPIs, revenue trend, units by region](<img width="1770" height="660" alt="screenshot_1_overview_charts" src="https://github.com/user-attachments/assets/d548b65f-bb22-4507-8c12-f7697ad4c876" />
+)
 
 This view shows the current filter state (all set to "All") plus the four
 headline KPIs, the revenue trend line, and the units-by-region bar chart. Key
 takeaway: revenue dipped from 2020 to 2023 before recovering in 2024, and
 North America clearly leads all regions in units sold.
 
-![Top models by revenue, 5G vs non-5G split, model summary table](screenshots/screenshot_2_models_table.png)
+![Top models by revenue, 5G vs non-5G split, model summary table](<img width="1770" height="930" alt="screenshot_2_models_table" src="https://github.com/user-attachments/assets/b46f7273-a690-4954-a0ab-cac57b9ef16d" />)
 
 This view shows which models drive the most revenue, the overall 5G vs
 non-5G split, and the full per-model breakdown. Key takeaway: the A14 5G and
@@ -91,7 +92,8 @@ S23 5G top the revenue chart, and roughly three-quarters of units sold are
 
 ## Power BI Dashboard
 
-![Power BI report: revenue by period, revenue by model, units by 5G capability, units by region](screenshots/power_bi_dashboard.png)
+![Power BI report: revenue by period, revenue by model, units by 5G capability, units by region](<img width="827" height="470" alt="power_bi_dashboard" src="https://github.com/user-attachments/assets/7d9a5962-2832-4e38-85f9-11e91d517f76" />
+)
 
 Same headline numbers as the Excel version — $10.77bn total revenue, 12M
 units sold, 3.73% average market share — confirming both dashboards read the
